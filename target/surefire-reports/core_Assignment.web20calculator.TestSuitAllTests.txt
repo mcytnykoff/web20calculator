@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: core_Assignment.web20calculator.TestSuitAllTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.612 sec
